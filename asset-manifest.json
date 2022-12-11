@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ramiromillan-portfolio/static/css/main.18663fff.css",
+    "main.js": "/ramiromillan-portfolio/static/js/main.11ae65bb.js",
+    "static/media/profile.jpg": "/ramiromillan-portfolio/static/media/profile.8c1beb207255a79f951b.jpg",
+    "index.html": "/ramiromillan-portfolio/index.html",
+    "main.18663fff.css.map": "/ramiromillan-portfolio/static/css/main.18663fff.css.map",
+    "main.11ae65bb.js.map": "/ramiromillan-portfolio/static/js/main.11ae65bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18663fff.css",
+    "static/js/main.11ae65bb.js"
+  ]
+}
