@@ -13,7 +13,7 @@ function App() {
         </div>
         <div className="col-span-2 flex flex-row place-items-center justify-evenly">
           {/* Profile picture */}
-          <img className="w-40 h-40" src={profilePicture} alt="profile picture"/>
+          <img className="w-40 h-40" src={profilePicture} alt="ramiro millan"/>
           {/* About me Section */}
           <div className="w-1/2 border p-3">
             <span>
